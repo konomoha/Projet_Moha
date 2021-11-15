@@ -32,7 +32,7 @@
         </header>
 
         <main class="my-4 row justify-content-around">
-            <sectio class=" row justify-content-around">
+            <section class=" row justify-content-around">
                 <div class="card col-md-3" style="width: 18rem;">
                     <img src="tee-shirt1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -61,7 +61,35 @@
                 </div>
 
             </section>
+            <section class=" row justify-content-around">
+                <div class="card col-md-3" style="width: 18rem;">
+                    <img src="tee-shirt1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
 
+                <div class="card col-md-3" style="width: 18rem;">
+                    <img src="tee-shirt2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+
+                <div class="card col-md-3" style="width: 18rem;">
+                    <img src="tee-shirt5.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+
+            </section>
         </main>
 
 
