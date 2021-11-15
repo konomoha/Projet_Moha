@@ -32,7 +32,36 @@
         </header>
 
         <main class="my-4 row justify-content-around">
-            <sectio class=" row justify-content-around">
+            <section class=" row justify-content-around">
+                <div class="card col-md-3" style="width: 18rem;">
+                    <img src="tee-shirt1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+
+                <div class="card col-md-3" style="width: 18rem;">
+                    <img src="tee-shirt2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+
+                <div class="card col-md-3" style="width: 18rem;">
+                    <img src="tee-shirt5.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+
+            </section>
+            <section class=" row justify-content-around">
                 <div class="card col-md-3" style="width: 18rem;">
                     <img src="tee-shirt1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -65,6 +94,7 @@
             <section>
                 <article>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore suscipit laborum deleniti, at accusantium officia, sint natus voluptates similique aspernatur illum, consequatur praesentium inventore aliquam sapiente asperiores. Pariatur fugiat, porro est debitis dolorem officia, ipsum, error autem ex soluta at! Tempora dicta cum facilis omnis, nihil sed consectetur, possimus est excepturi assumenda repudiandae aliquam. Corporis voluptatem non facere aspernatur libero molestiae porro consectetur similique pariatur magnam nihil, incidunt corrupti, vel voluptatibus. Animi nostrum enim totam mollitia ad ipsam perspiciatis expedita doloribus deleniti, alias, accusantium magni eveniet excepturi assumenda corrupti, esse eos modi voluptate culpa nisi cupiditate! Omnis, atque molestiae.</article>
             </section>
+
 
         </main>
 
