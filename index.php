@@ -20,9 +20,9 @@
     
     <nav >
         <ul class="row justify-content-around ">
-            <li class="col-md-2"><a href="" class="text-dark">Accueil</a></li>
-            <li class="col-md-2"><a href="" class="text-dark">produits</a></li>
-            <li class="col-md-2"><a href="" class="text-dark">Contact</a></li>
+            <li class="col-md-2"><a href="" >Accueil</a></li>
+            <li class="col-md-2"><a href="" >produits</a></li>
+            <li class="col-md-2"><a href="" >Contact</a></li>
             
         </ul>
     </nav>
@@ -32,7 +32,7 @@
     <main>
         <h1 class="text-center fst-italic">Projet Mohahaha~</h1>
         <section>
-            <div id="test" class="col-md-5 mx-auto row justify-content-center"><img src="tee-shirt3.jpg" alt="" > </div>
+            
             <article>
                 
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae hic animi vel porro facilis ad illo incidunt qui beatae dicta, temporibus repellendus repellat ipsa quibusdam velit perspiciatis perferendis aspernatur quasi esse earum cum. Reprehenderit, nulla ut voluptatem reiciendis veritatis, vitae id corrupti molestiae nihil, alias illum incidunt laudantium doloribus sint suscipit ab molestias repudiandae ipsum numquam ex? Neque in magni soluta consequuntur accusantium aspernatur quod beatae sequi itaque fuga debitis vero qui maiores doloremque, aliquid culpa placeat cumque quas impedit alias odio eos fugit nesciunt dignissimos? Dolorum impedit ipsa vitae non itaque voluptatem totam. Temporibus illo fuga saepe. Minima, illum!
@@ -71,6 +71,12 @@
         </div>
         </section>
     </main>
+
+    <footer>
+        <article id="f1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia velit quasi neque incidunt quas excepturi molestias perferendis officiis eum placeat, sit sequi at non odio. Laudantium vero voluptas repudiandae cumque neque officiis, recusandae incidunt, consequuntur ullam nihil debitis praesentium dolore! Magni quam nam voluptates aut, sequi itaque quod ipsa hic?</article>
+
+        <article  id="f2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia velit quasi neque incidunt quas excepturi molestias perferendis officiis eum placeat, sit sequi at non odio. Laudantium vero voluptas repudiandae cumque neque officiis, recusandae incidunt, consequuntur ullam nihil debitis praesentium dolore! Magni quam nam voluptates aut, sequi itaque quod ipsa hic?</article>
+    </footer>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
