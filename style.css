@@ -3,13 +3,15 @@ body{
 }
 
 nav{
-    background-image: url('test.jpg');
-    background-size: cover;
-    background-position:center;
-    min-height: 250px;
+    background-color: rgb(167, 180, 192);
+    min-height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+nav h1{
+    font-size: 50px;
 }
 
 nav ul{
@@ -44,5 +46,6 @@ footer{
 
 #f1, #f2{
     width: 170px;
+    
     color: cornsilk;
 }
